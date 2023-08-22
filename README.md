@@ -16,7 +16,7 @@ This github repository will walk you through setting up your Git and GitHub acco
 - [X] Making Changes to the Repository  
 - [x] Committing Changes Locally  
 - [X] Moving Changes to GitHub   
-- [ ] Standard Work Flow
+- [x] Standard Work Flow
 
 ---
 
